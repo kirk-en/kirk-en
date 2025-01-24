@@ -5,7 +5,6 @@
 - 🧠 Endlessly curious about languages, entrepreneurship, coding, APIs, and computer science.
 - 🎨 Former startup content maven – can Photoshop app assets without needing to bother the design team and update the office dog sizzle reel for this year's offsite.
 
-<h3 align="left">Languages and Tools:</h3>
 ![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,sass,netlify,firebase,vite,git,docker,materialui,mysql,npm,raspberrypi,ae,ps,pr)
 
 ---
