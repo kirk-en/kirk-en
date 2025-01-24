@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Shopify's GraphQL Admin API, Docker, web crawling with Node (Puppeteer, Cheerio), and algorithmic video editing.
 - 🧠 Endlessly curious about languages, entrepreneurship, coding, APIs, and computer science.
 - 🎨 Former startup content maven – can Photoshop app assets without needing to bother the design team and update the office dog sizzle reel for this year's offsite.
-- 🍕 Amateur home pizza chef
+- 🍕 Amateur home pizza chef.
 
 ### Languages and Tools:
 
